@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm PH7NTOM</h1>
-<h3 align="center">A Pakistani 13 year old with way too much free time.</h3><br><br>
+<h3 align="center">A Pakistani 13 year old with way too much free time.</h3>
 
 <hr>
 
